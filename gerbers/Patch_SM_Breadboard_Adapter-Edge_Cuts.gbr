@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.10*%
+%TF.CreationDate,2024-02-02T23:11:49-08:00*%
+%TF.ProjectId,Patch_SM_Breadboard_Adapter,50617463-685f-4534-9d5f-427265616462,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.10) date 2024-02-02 23:11:49*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.200000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X20000000Y-20000000D02*
+X82000000Y-20000000D01*
+X82000000Y-112000000D01*
+X20000000Y-112000000D01*
+X20000000Y-20000000D01*
+M02*
